@@ -1,0 +1,347 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Email Template</title>
+    <meta charset="UTF-8">
+    <meta name="description" content="Your site's description should be here">
+    <meta name="keywords" content="Your site's keywords should be here">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+	<div style="display: table; margin: 0; padding:0px; position: relative; width:100%; color:#fff; font-size:14px;">
+		<div style="position: relative; width:1135px; margin:0px auto; max-width:100%;  background: url('clip_group.png') no-repeat;">
+			<div style="min-height: 86px; overflow: hidden; position: relative; width: 1035px; margin:0px auto;">
+				<table style="width:100%; text-align:center;">
+					<tr>
+						<td><img src="layer_60.png" style="max-width:100%" border="0" alt=""></td>
+						<td><img src="layer_357.png" style="max-width:100%" border="0" alt=""></td>
+						<td><img src="layer_49.png" style="max-width:100%" border="0" alt=""></td>
+						<td><img src="layer_58.png" style="max-width:100%" border="0" alt=""></td>
+						<td><img src="layer_59.png" style="max-width:100%" border="0" alt=""></td>
+					</tr>
+				</table>
+			</div>
+			<div style="background: url('clip_group_2.png') no-repeat; width:100%; padding:50px;">
+				<h3 style="font-size:30px; color:#fff; Font-weight:700; font-family: 'Oswald', sans-serif; margin:0px; line-height:20px">VIRTUAL</h3>
+				<h2 style="font-size:60px; color:#e11f26; Font-weight:700; font-family: 'Oswald', sans-serif; margin:0px; line-height:70px;">INDIAN RAILWAYS</h2>
+				<h1 style="color: transparent; -webkit-text-stroke: 1px #fff; text-stroke: 1px #fff; text-shadow: none; Font-weight:700; font-family: 'Oswald', sans-serif; font-size:90px; line-height:90px; margin:0px;">SOURCING WEEK 3.0</h1>
+				<h3 style="font-size:30px; color:#fff; Font-weight:700; font-family: 'Oswald', sans-serif; margin:0px;">AUGUST 02-04, 2023</h3>
+				<a href="" style="display:inline-block; font-family: 'Roboto', sans-serif; font-weight:500; font-size:21px; padding:12px 20px; background:#e11f26; color:#fff; text-decoration:none; margin-top:20px; margin-right:15px; ">KNOW MORE</a>
+				<a href="" style="display:inline-block; font-family: 'Roboto', sans-serif; font-weight:500; font-size:21px; padding:12px 20px; background:#fff; color:#000; text-decoration:none; margin-top:20px; ">REGISTER HERE</a>
+			</div>
+			<div style="background: url('clip_group_39.png') no-repeat; padding:10px 50px;">
+				<table style="font-family: 'Roboto'; width:100%; color:#fff; font-size:30px; font-weight:700; line-height:30px;">
+					<tr>
+						<td style="border-right:2px solid #fff;">3 Days </td>
+						<td style="border-right:2px solid #fff; padding-left:35px;">7 Sessions </td>
+						<td style="border-right:2px solid #fff; padding-left:35px;">35+ Speakers </td>
+						<td style="padding-left:35px;">Q/A Sessions</td>
+					</tr>
+				</table>
+			</div>
+			<div style="background: url('clip_group_40.png') no-repeat; background-size:cover; padding:30px 50px 0px; position: relative;">
+				<img  style="position:absolute; top:0px; right:0px;" src="clip_group_42.png"  border="0" alt="">
+				<img style="position:absolute; top:0px; right:80px;" src="clip_group_42.png"  border="0" alt="">
+				<h2 style="font-size:50px; color:#e11f26; Font-weight:700; font-family: 'Oswald', sans-serif; margin:0px; line-height:70px;">SESSION THEMES</h2>
+				<div style="position:relative; padding: 20px 0px; z-index:9; text-align:center; font-size:0px;">
+					<div style="background: url('clip_group_63.png') no-repeat; padding:15px; display:inline-block; width:26%; margin-right:10px; min-height:178px; position:relative; background-size: contain; margin-bottom:30px; padding-right:50px;">
+						<table style="width:100%; font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#000;">
+							<tr>
+								<td><div style="background:#e11f26; font-family: 'Roboto', sans-serif; font-weight:700; font-size:14px; min-height:100px; color:#fff; padding:5px; border-radius:50px; padding-top:25px;">THEME<span style="display:block; color: transparent; -webkit-text-stroke: 1px #fff; text-stroke: 1px #fff; text-shadow: none; Font-weight:700; font-family: 'Oswald', sans-serif; font-size:70px; ; margin:0px;">1</span></div></td>
+								<td style="vertical-align: top; padding: 10px 17px; text-align: left; line-height: 24px;">Interactive sessions with GEM on E-procurement & E-Business for railway sector</td>
+							</tr>
+						</table>
+						<div style="position:absolute; bottom:8px; right:30px;"><img src="cr.png" border="0" alt=""></div>
+					</div>
+					<div style="background: url('clip_group_63.png') no-repeat; padding:15px; display:inline-block; width:26%; margin-right:10px; min-height:178px; position:relative; background-size: contain; margin-bottom:30px; padding-right:50px;">
+						<table style="width:100%; font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#000;">
+							<tr>
+								<td><div style="background:#e11f26; font-family: 'Roboto', sans-serif; font-weight:700; font-size:14px; min-height:100px; color:#fff; padding:5px; border-radius:50px; padding-top:25px;">THEME<span style="display:block; color: transparent; -webkit-text-stroke: 1px #fff; text-stroke: 1px #fff; text-shadow: none; Font-weight:700; font-family: 'Oswald', sans-serif; font-size:70px; ; margin:0px;">2</span></div></td>
+								<td style="vertical-align: top; padding: 10px 17px; text-align: left; line-height: 24px;">Building AatmaNirbhar Bharat in Indian Railways</td>
+							</tr>
+						</table>
+						<div style="position:absolute; bottom:8px; right:30px;"><img src="cr.png" border="0" alt=""></div>
+					</div>
+					<div style="background: url('clip_group_63.png') no-repeat; padding:15px; display:inline-block; width:26%; margin-right:10px; padding-right:50px; min-height:178px; position:relative; background-size: contain; margin-bottom:30px">
+						<table style="width:100%; font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#000;">
+							<tr>
+								<td><div style="background:#e11f26; font-family: 'Roboto', sans-serif; font-weight:700; font-size:14px; min-height:100px; color:#fff; padding:5px; border-radius:50px; padding-top:25px;">THEME<span style="display:block; color: transparent; -webkit-text-stroke: 1px #fff; text-stroke: 1px #fff; text-shadow: none; Font-weight:700; font-family: 'Oswald', sans-serif; font-size:70px; ; margin:0px;">3</span></div></td>
+								<td style="vertical-align: top; padding: 10px 17px; text-align: left; line-height: 24px;">Vendor Development Meet with RDSO</td>
+							</tr>
+						</table>
+						<div style="position:absolute; bottom:8px; right:30px;"><img src="cr.png" border="0" alt=""></div>
+					</div>
+					<div style="background: url('clip_group_63.png') no-repeat; padding:15px; display:inline-block; width:26%; margin-right:10px; padding-right:50px; min-height:178px; position:relative; background-size: contain; margin-bottom:30px">
+						<table style="width:100%; font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#000;">
+							<tr>
+								<td><div style="background:#e11f26; font-family: 'Roboto', sans-serif; font-weight:700; font-size:14px; min-height:100px; color:#fff; padding:5px; border-radius:50px; padding-top:25px;">THEME<span style="display:block; color: transparent; -webkit-text-stroke: 1px #fff; text-stroke: 1px #fff; text-shadow: none; Font-weight:700; font-family: 'Oswald', sans-serif; font-size:70px; ; margin:0px;">4</span></div></td>
+								<td style="vertical-align: top; padding: 10px 17px; text-align: left; line-height: 24px;">Sourcing and Vendor development opportunities in Locomotive Manufacturing</td>
+							</tr>
+						</table>
+						<div style="position:absolute; bottom:8px; right:30px;"><img src="cr.png" border="0" alt=""></div>
+					</div>
+					<div style="background: url('clip_group_63.png') no-repeat; padding:15px; display:inline-block; width:26%; margin-right:10px; padding-right:50px; min-height:178px; position:relative; background-size: contain; margin-bottom:30px">
+						<table style="width:100%; font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#000;">
+							<tr>
+								<td><div style="background:#e11f26; font-family: 'Roboto', sans-serif; font-weight:700; font-size:14px; min-height:100px; color:#fff; padding:5px; border-radius:50px; padding-top:25px;">THEME<span style="display:block; color: transparent; -webkit-text-stroke: 1px #fff; text-stroke: 1px #fff; text-shadow: none; Font-weight:700; font-family: 'Oswald', sans-serif; font-size:70px; ; margin:0px;">5</span></div></td>
+								<td style="vertical-align: top; padding: 10px 17px; text-align: left; line-height: 24px;">Sourcing and Vendor development opportunities in Indian Rail Coaches, wheel and equipment manufacturing</td>
+							</tr>
+						</table>
+						<div style="position:absolute; bottom:8px; right:30px;"><img src="cr.png" border="0" alt=""></div>
+					</div>
+					<div style="background: url('clip_group_63.png') no-repeat; padding:15px; display:inline-block; width:26%; margin-right:10px; padding-right:50px; min-height:178px; position:relative; background-size: contain; margin-bottom:30px">
+						<table style="width:100%; font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#000;">
+							<tr>
+								<td><div style="background:#e11f26; font-family: 'Roboto', sans-serif; font-weight:700; font-size:14px; min-height:100px; color:#fff; padding:5px; border-radius:50px; padding-top:25px;">THEME<span style="display:block; color: transparent; -webkit-text-stroke: 1px #fff; text-stroke: 1px #fff; text-shadow: none; Font-weight:700; font-family: 'Oswald', sans-serif; font-size:70px; ; margin:0px;">6</span></div></td>
+								<td style="vertical-align: top; padding: 10px 17px; text-align: left; line-height: 24px;">Sourcing opportunities in Indian Rail Infrastructure</td>
+							</tr>
+						</table>
+						<div style="position:absolute; bottom:8px; right:30px;"><img src="cr.png" border="0" alt=""></div>
+					</div>
+					<div style="background: url('clip_group_63.png') no-repeat; padding:15px; display:inline-block; width:26%; margin-right:10px; padding-right:50px; min-height:178px; position:relative; background-size: contain; margin-bottom:30px">
+						<table style="width:100%; font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#000;">
+							<tr>
+								<td><div style="background:#e11f26; font-family: 'Roboto', sans-serif; font-weight:700; font-size:14px; min-height:100px; color:#fff; padding:5px; border-radius:50px; padding-top:25px;">THEME<span style="display:block; color: transparent; -webkit-text-stroke: 1px #fff; text-stroke: 1px #fff; text-shadow: none; Font-weight:700; font-family: 'Oswald', sans-serif; font-size:70px; ; margin:0px;">7</span></div></td>
+								<td style="vertical-align: top; padding: 10px 17px; text-align: left; line-height: 24px;">Make in India: Manufacturing opportunities in Indian Railway</td>
+							</tr>
+						</table>
+						<div style="position:absolute; bottom:8px; right:30px;"><img src="cr.png" border="0" alt=""></div>
+					</div>
+				</div>
+			</div>
+			<div style="display:table; width:100%;">
+				<div style="display: table-cell; width:50%; padding:30px 50px;">
+					<h2 style="font-size:50px; color:#1a83c6; Font-weight:700; font-family: 'Oswald', sans-serif; margin:0px; line-height:70px;">KEY TAKEAWAYS</h2>
+					<table style="width:100%; color:#282828; font-size:16px; font-family: 'Roboto', sans-serif; font-weight:400; line-height:24px; ">
+						<tr>
+							<td style="padding:10px;"><img src="layer_131.png" border="0" alt=""></td>
+							<td style="padding:10px;">Vendor Development and Procurement opportunities for MSMEs in Railway Manufacturing units and Railway Zones</td>
+						</tr>
+						<tr>
+							<td style="padding:10px;"><img src="layer_131.png" border="0" alt=""></td>
+							<td style="padding:10px;">Public Private Partnership model opportunities</td>
+						</tr>
+						<tr>
+							<td style="padding:10px;"><img src="layer_131.png" border="0" alt=""></td>
+							<td style="padding:10px;">Procurement policies & Vendor registration & procedures for MSMEs plan 2030 model</td>
+						</tr>
+						<tr>
+							<td style="padding:10px;"><img src="layer_131.png" border="0" alt=""></td>
+							<td style="padding:10px;">MSME collaboration opportunities with Global MNCs</td>
+						</tr>
+						<tr>
+							<td style="padding:10px;"><img src="layer_131.png" border="0" alt=""></td>
+							<td style="padding:10px;">Expansion plans of Indian Railways – National Rail plan 2030model</td>
+						</tr>
+						<tr>
+							<td style="padding:10px;"><img src="layer_131.png" border="0" alt=""></td>
+							<td style="padding:10px;">Cross Supply Chain Opportunities in the Railway Manufacturing</td>
+						</tr>
+						<tr>
+							<td style="padding:10px;"><img src="layer_131.png" border="0" alt=""></td>
+							<td style="padding:10px;">Technology Transfer & collaboration opportunities</td>
+						</tr>
+					</table>
+				</div>
+				<div style="display: table-cell; width:50%; background: url('clip_group_99.png') no-repeat; background-size:cover;"></div>
+			</div>
+			<div style="background:#1a6cc6; position:relative; padding:30px 50px">
+				<img src="clip_group_110.png" style="position:absolute; right:0px; bottom:0px;" border="0" alt="">
+				<h3 style="width:100%; text-align:center; font-family: 'Roboto', sans-serif; font-weight:700; font-size:28px; margin-top:50px; border-top:1px solid #fff;"><span style="display:inline-block; background:#1a6cc6; position:relative; top:-18px; padding:0px 20px;">TARGET SECTORS</span></h3>
+				<table style="width:100%; text-align:center; font-family: 'Roboto', sans-serif; font-weight:500; font-size:16px;">
+					<tr>
+						<td><img style="padding-bottom:10px;" src="clip_group_102.png"  border="0" alt=""><br>Railway Stations & Infrastructure</td>
+						<td><img style="padding-bottom:10px;" src="clip_group_103.png"  border="0" alt=""><br>Coaches</td>
+						<td><img style="padding-bottom:10px;" src="clip_group_104.png"  border="0" alt=""><br>Locomotives</td>
+						<td><img style="padding-bottom:10px;" src="clip_group_105.png"  border="0" alt=""><br>Electrification & Signalling</td>
+					</tr>
+					<tr>
+						<td style="padding-top:30px;"><img style="padding-bottom:10px;" src="clip_group_109.png"  border="0" alt=""><br>Innovators & Startups</td>
+						<td style="padding-top:30px;"><img style="padding-bottom:10px;" src="clip_group_108.png"  border="0" alt=""><br>Wheels & Tracks</td>
+						<td style="padding-top:30px;"><img style="padding-bottom:10px;" src="clip_group_107.png"  border="0" alt=""><br>Repairs & Maintenance</td>
+						<td style="padding-top:30px;"><img style="padding-bottom:10px;" src="clip_group_106.png"  border="0" alt=""><br>Technological Collaborations</td>
+					</tr>
+				</table>
+			</div>
+			<div style="display:table; width:100%; position:relative;">
+				<img src="clip_group_112.png" style="position:absolute; right:0px; bottom:300px;" border="0" alt="">
+				<div style="background:url('clip_group_215.png') no-repeat;  background-size:cover; display:table-cell; font-size: 50px; Font-weight:700; font-family: 'Oswald', sans-serif; writing-mode: vertical-rl; text-orientation: mixed; width:50px;">INVITED SPEAKERS</div>
+				<div style="display:table-cell; padding:0px 50px;">
+					<h3 style="width:100%; text-align:left; font-family: 'Oswald', sans-serif; font-weight:700; font-size:30px; border-top:1px solid #fff; color: #1a83c6">MINISTRIES, GOVERNMENT DEPARTMENTS & RAILWAY AUTHORITIES</h3>
+					<div style="width:49%; display:inline-block">
+						<table style="font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#282828;">
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">Ministry of Commerce and Industry</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">Niti Aayog</td>
+							</tr>
+						</table>
+					</div>
+					<div style="width:49%; display:inline-block">
+						<table style="font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#282828;">
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">Railway Board - Divisions</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">GeM</td>
+							</tr>
+						</table>
+					</div>
+					<h3 style="width:100%; text-align:left; font-family: 'Oswald', sans-serif; font-weight:700; font-size:30px; border-top:1px solid #fff; color: #1a83c6">RAILWAY UNITS IN MANUFACTURING, DESIGN, R&D, REPAIR & SERVICES AND PROCUREMENT DIVISION OF VARIOUS RAILWAY ZONES</h3>
+					<div style="width:49%; display:inline-block; vertical-align:top;">
+						<table style="font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#282828; vertical-align:top;">
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">RDSO (Research Design and Standards Organisation</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">GRRW, Trichy (Golden Rock Railway Workshop Trichy West Gate)</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">BLW, Banaras (The Banaras Locomotive Works)</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">COFMOW - Central Organisation for Modernisation of Workshops</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">CLW Chittaranjan Locomotive Works</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">ICF Chennai - The Integral Coach Factory, Chennai </td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">RCF Kapurthala - Rail Coach Factory, Kapurthala</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">RWF, Bangalore - Rail Wheel Factory</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">BEML, Bangalore</td>
+							</tr>
+						</table>
+					</div>
+					<div style="width:49%; display:inline-block; vertical-align:top;">
+						<table style="font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#282828; vertical-align:top;">
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">MCF- Modern Coach Factory, Raebareli</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">DFCCIL - The Dedicated Freight Corridor Corporation of India Limited</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">IRCON - Indian Railway Construction International Limited </td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">CORE - The Central Organization for Railway Electrification  </td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">RVN Ltd.- Rail Vikas Nigam Ltd  </td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">RITES - Rail India Technical and Economic Service   </td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">RLDA - Rail Land Development Authority   </td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">CONCOR   </td>
+							</tr>
+						</table>
+					</div>
+					<h3 style="width:100%; text-align:left; font-family: 'Oswald', sans-serif; font-weight:700; font-size:30px; border-top:1px solid #fff; color: #1a83c6">PRIVATE SECTORS MANUFACTURERS AND PROCUREMENT ENTITIES</h3>
+					<div style="width:49%; display:inline-block; vertical-align:top;">
+						<table style="font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#282828;">
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">TWL - Titagarh Wagons </td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">Wabtec</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">GE' Alstom </td>
+							</tr>
+						</table>
+					</div>
+					<div style="width:49%; display:inline-block; vertical-align:top;">
+						<table style="font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#282828;">
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">Bombardier</td>
+							</tr>
+							<tr>
+								<td style="padding:5px;"><img src="clip_group_128.png" border="0" alt=""></td>
+								<td style="padding:5px;">TEXMACO</td>
+							</tr>
+						</table>
+					</div>
+					<div style="text-align:center; margin-top:10px; margin-bottom:30px;"><a href="" style="display:inline-block; font-family: 'Roboto', sans-serif; font-weight:500; font-size:21px; padding:12px 20px; background:#e11f26; color:#fff; text-decoration:none; margin-top:20px; margin-right:15px; ">DOWNLOAD REPORT- IRSW 2.0</a></div>
+				</div>
+				
+			</div>
+			<div style="background:#e11f26;padding-bottom:20px;">
+				<div style="background-image:url('clip_group_216.png'); background-repeat:no-repeat; background-size: 100%; padding:30px 0px 60px; text-align:center;">
+					<h3 style="font-family: 'Roboto', sans-serif; font-weight:700; font-size:28px;">CONTACT US</h3>
+				</div>
+				<div id="" style="padding:0px 50px; margin-top:-50px;">
+					<table style="width:100%; font-family: 'Roboto', sans-serif; font-weight:400; font-size:16px; color:#282828; text-align:center;">
+					<tr>
+						<td>
+							<div id="" style="background:#fff; padding:15px; border-radius:15px">
+								<h4>Pallavi Saha</h4>
+								<p style="margin:0px 0px 10px;">Joint Director</p>
+								<p style="margin:0px 0px 10px;">psaha@eepcindia.net</p>
+								<p style="margin:0px 0px 10px;">+91 9899994374</p>
+							</div>
+						</td>
+						<td>
+							<div id="" style="background:#fff; padding:15px; border-radius:15px; margin:0px 20px">
+								<h4>Mayank Krishna</h4>
+								<p>Sr Assistant Director</p>
+								<p>mkrishna@eepcindia.net</p>
+								<p>+91 8826211228</p>
+							</div>
+						</td>
+						<td>
+							<div id="" style="background:#fff; padding:15px; border-radius:15px">
+								<h4>Vibhanshu Chaturvedi</h4>
+								<p>Project Coordinator</p>
+								<p>vchaturvedi@eepcindia.net</p>
+								<p>+91 9717471899</p>
+							</div>
+						</td>
+					</tr>
+				</table>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+  </body>
+</html>

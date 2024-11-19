@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'TT Chocolates';
+    src: url('TTChocolates-Medium.eot');
+    src: url('TTChocolates-Medium.eot?#iefix') format('embedded-opentype'),
+        url('TTChocolates-Medium.woff2') format('woff2'),
+        url('TTChocolates-Medium.woff') format('woff'),
+        url('TTChocolates-Medium.ttf') format('truetype'),
+        url('TTChocolates-Medium.svg#TTChocolates-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Chocolates';
+    src: url('TTChocolates-Bold.eot');
+    src: url('TTChocolates-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TTChocolates-Bold.woff2') format('woff2'),
+        url('TTChocolates-Bold.woff') format('woff'),
+        url('TTChocolates-Bold.ttf') format('truetype'),
+        url('TTChocolates-Bold.svg#TTChocolates-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Chocolates';
+    src: url('TTChocolates-Regular.eot');
+    src: url('TTChocolates-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TTChocolates-Regular.woff2') format('woff2'),
+        url('TTChocolates-Regular.woff') format('woff'),
+        url('TTChocolates-Regular.ttf') format('truetype'),
+        url('TTChocolates-Regular.svg#TTChocolates-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Chocolates';
+    src: url('TTChocolates-Light.eot');
+    src: url('TTChocolates-Light.eot?#iefix') format('embedded-opentype'),
+        url('TTChocolates-Light.woff2') format('woff2'),
+        url('TTChocolates-Light.woff') format('woff'),
+        url('TTChocolates-Light.ttf') format('truetype'),
+        url('TTChocolates-Light.svg#TTChocolates-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Chocolates';
+    src: url('TTChocolates-DemiBold.eot');
+    src: url('TTChocolates-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('TTChocolates-DemiBold.woff2') format('woff2'),
+        url('TTChocolates-DemiBold.woff') format('woff'),
+        url('TTChocolates-DemiBold.ttf') format('truetype'),
+        url('TTChocolates-DemiBold.svg#TTChocolates-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

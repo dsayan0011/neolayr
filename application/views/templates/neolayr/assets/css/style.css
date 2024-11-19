@@ -1,0 +1,550 @@
+.breadcrumb-item+.breadcrumb-item::before {    
+    content: ">" !important;
+}
+.price-amount-box {
+    max-width: 250px !important;
+}
+.pbp{
+    display: none;
+}
+.p-icon-two{
+    height: 95px;
+
+}
+.p-icon-two img {
+    max-height: 110px;
+/*    width: 110px;*/
+}
+.not_show{
+  display: none;
+}
+.not_available{
+    color: Tomato;
+}
+.login-inner p.voucher_not_applyed_text {
+    text-align: left;
+    color: red;
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+.cart-summery span.not_available {
+    color: Tomato;
+}
+.login-inner p.wrong_mobile{
+    color: Tomato;
+    display: none;
+}
+.login-inner button {
+    width: 100%;
+    border: 1px solid #5cabb2;
+    color: #fff;
+    background: #5cabb2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all .5s;
+    height: 70px;
+}
+.ad_add button{
+    margin-top: 49px;
+    height: 56px !important;
+}
+.ed_add button{
+    margin-top: 49px;
+    height: 56px !important;
+}
+.resend_otp{
+    color: Tomato;
+    display: none;
+}
+.login-inner input[type="date"] {
+    width: 100%;
+    border: 1px solid #4d8c92;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    padding: 0px 30px;
+    text-align: center;
+    height: 60px;
+    margin-bottom: 5px;
+}
+.wrong_registration{
+    color: tomato;
+}
+.login-inner p.wrong_firstName{
+    display: none;
+    color: Tomato;
+    font-size: 19px;
+}
+.login-inner p.wrong_lastName{
+    display: none;
+    color: Tomato;
+}
+.login-inner p.wrong_mobileNumber{
+    display: none;
+    color: Tomato;
+}
+.login-inner p.mobileNumber_exists{
+    display: none;
+    color: Tomato;
+    font-size: 19px;
+}
+.login-inner p.wrong_mobileNumber{
+    display: none;
+    color: Tomato;
+    font-size: 19px;
+}
+.login-inner p.wrong_emailAddress{
+    display: none;
+    color: Tomato;
+}
+.login-inner p.select_dob{
+    display: none;
+    color: Tomato;
+}
+.item-pic img{
+    max-width: 25%;
+}
+.product-pagination .pagination li {
+    border-radius: 0;
+}
+/*.product-pagination {
+    border-bottom: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+    margin: 50px 0;
+}*/
+.product-pagination .pagination {
+    border-radius: 0;
+}
+.product-pagination .pagination li.active a {
+    color: #ff6f69;
+    background-color: #ffffff;
+    border-color: #dddddd;
+}
+.product-pagination .pagination li a {
+    position: relative;
+    display: block;
+    margin-left: -1px;
+    line-height: 1.25;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    padding: 18px;
+    border-bottom: 1px solid #dee2e6;
+    border-top: 1px solid #dee2e6;
+    color: #777777;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    height: 100%;
+}
+.opt-box > div input[type="button"] {
+    width: 100%;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: inherit;
+    color: #000;
+    text-decoration: none;
+    background: #ffffff;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    transition: all 0.5s;
+    height: 50px;
+    border: 0px;
+}
+.category-name{
+    text-transform: uppercase;
+}
+.login-inner p.special_wish{
+    color: red;
+    font-size: 14px;
+}
+.star{
+    color: red;
+}
+.f-address{
+    display: block !important;
+}
+.f-logintwo{
+    display: block !important;
+}
+.login-inner p.we_contact{
+    color: red;
+}
+.noStoreFound{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.site-footer .n-form-area form > div .email { 
+  text-transform: none !important;
+}
+.cuppon-no > div:last-child a.not_applyed{
+    color: red;
+    font-size: 18px;
+}
+.login-inner p.not_applyed_text{
+    text-align: left;
+    color: red;
+    font-size: 23px;
+    margin-bottom: 10px;
+}
+.refer-friends p.text-copy{
+    font-size: 20px;
+    font-weight: 600;
+}
+.max_p{
+    margin-top: 5px;
+    margin-left: 21px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.skin-content p.wrong_Name{
+    color: red;
+    margin: 2px 0px 2px 0px;
+    display: none;
+    font-size: 14px;
+
+}
+.skin-content p.wrong_age{
+    color: red;
+    margin: 2px 0px 2px 0px;
+    font-size: 14px;
+    display: none;
+
+}
+.skin-content p.wrong_mobile{
+    color: red;
+    margin: 2px 0px 2px 0px;
+    font-size: 14px;
+    display: none;
+
+}
+.skin-content p.wrong_email{
+    color: red;
+    margin: 2px 0px 2px 0px;
+    font-size: 14px;
+    display: none;
+
+}
+.deliveryAvailable{
+    padding-top: 10px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.login-inner select {
+    width: 100%;
+    border: 1px solid #4d8c92;
+    color: #000;
+    font-size: 23px;
+    padding: 0px 30px;
+    text-align: center;
+    height: 80px;
+}
+
+.community-section h3 {
+  margin-bottom: 30px;
+}
+.rightarea-heading-offer {
+    background: #AAEFC8;
+    padding: 0px;
+    font-size: 1.7vw;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    color: #2a4153;
+    font-weight: 400;
+    position: relative;
+    height: auto;
+}
+.test-heading-offer {
+    background: #99df7a;
+    padding: 5px 8px;
+    font-size: 1.7vw;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    color: #2a4153;
+    font-weight: 400;
+    position: relative;
+    height: auto;
+}
+.f-offer {
+    color: black;
+    font-weight: 600;
+    font-family: Gotham;
+}
+.test-color {
+    color: red;
+    font-weight: 600;
+    font-family: Gotham;
+}
+.wishlist-img .fancybox img{
+    position: relative;
+    bottom: 2px;
+    width: 16px;
+}
+.loader 
+{
+ position: fixed;
+ left: 0px;
+ top: 0px;
+ width: 100%;
+ height: 100%;
+ z-index: 9999;
+ background: url(../images/loader.gif) 50% 50% no-repeat rgb(249,249,249);
+ opacity: 0.7;
+}
+/*.whats-float {
+    position: fixed;
+    transform:translate(108px,0px);
+    top:25%;
+    right:0;
+    width:150px;
+    overflow: hidden;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 4px 0 0 4px;
+    z-index: 10;
+    transition: all 0.5s ease-in-out;
+    vertical-align: middle
+}
+.whats-float a span {
+    color: white;
+    font-size: 15px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    position: absolute;
+    line-height: 16px;
+    font-weight: bolder;
+}
+
+.whats-float i {
+    font-size: 30px;
+    color: white;
+    line-height: 30px;
+    padding: 10px;
+    transform:rotate(0deg);
+    transition: all 0.5s ease-in-out;
+    text-align:center;
+
+}
+
+.whats-float:hover {
+    color: #FFFFFF;
+    transform:translate(0px,0px);
+}
+
+.whats-float:hover i  {
+    transform:rotate(360deg);
+}*/
+.shop_weight{
+/*    background: beige;*/
+/*    margin-right: 150px;*/
+    margin-top: 5px;
+    font-size: 17px;
+
+}
+.returnPeriod-base-returnItem {
+    display: inline-flex;
+    font-size: 16px;
+    padding-top: 3px;
+}
+.tot-regime-price{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+p.select_concern{
+    color:  red;
+    font-size: 12px;
+}
+.label-areas{
+    margin-bottom: 0px !important;
+}
+.each-feilds {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.each-feilds-btn{
+    padding-top: 48px;
+}
+.login-inner.dermatologist input[type="text"],
+.login-inner.dermatologist input[type="email"] {
+    font-size: 20px;
+    height: 60px;
+    margin-bottom: : 5px;
+}
+.login-inner.dermatologist label {
+    font-size: 20px;
+}
+.login-inner.dermatologist p {
+    font-size: 19px;
+    margin-bottom: 0px;
+}
+.login-inner.dermatologist {
+    padding: 10px 20px 20px 20px;
+}
+.login-inner button.add_consultation {
+    margin-top: 2px;
+    font-size: 23px;
+    height: 65px;
+}
+.hm_price{
+    /*text-align: right;*/
+    margin-top: 10px;
+}
+.touch-area-two{
+    margin-top: 40px;
+    font-size: 22px;
+}
+.f-m{
+    margin-top: 30px;
+}
+.r-margin{
+    margin-bottom: 5px !important;
+}
+@media (max-width: 768px){
+    .login-inner p.wrong_firstName{
+        font-size: 13px;
+        margin-bottom: 0px;
+    }
+    .login-inner p.wrong_mobileNumber{
+        font-size: 13px;
+        margin-bottom: 0px;
+    }
+    .login-inner p.mobileNumber_exists{
+        font-size: 13px;
+        margin-bottom: 0px;
+    }
+    .ad_add button{
+        margin-top: 5px;
+    }
+    .ed_add button{
+        margin-top: 5px;
+    }
+    .hm_price {
+    /*    text-align: left;*/
+          margin-top: 3px;
+    }
+    .login-inner button.add_consultation {
+        margin-top: 10px;
+        font-size: 20px;
+        height: 55px;
+    }
+    .login-inner.dermatologist input[type="text"],
+    .login-inner.dermatologist input[type="email"] {
+        font-size: 18px;
+        height: 50px;
+    }
+    .each-feilds-btn{
+        padding-top: 0px;
+    }
+    .tot-regime-price {
+        font-size: 10px;
+        margin-bottom: 2px;
+    }
+    /*.wa-widget-send-button {
+        bottom: 45px !important;
+    }
+    .wa-chat-bubble {
+        bottom: 70px !important;
+    }*/
+    .shop_weight{
+        font-size: 10px;
+
+    }
+    .cart-product.return_available{
+        font-size: 10px !important;
+        margin-top: 8px;
+        text-align: left;
+        padding: 0;
+    }
+    .returnPeriod-base-returnItem {
+        font-size: 10px;
+    }
+    .cart-heading-new h2 {
+        font-size: 15px;
+    }
+    .each--addressbox {
+        margin-bottom: 12px;
+    }
+    .not_available {
+        margin: 15px;
+    }
+    .wishlist-img .fancybox img {
+        bottom: 0px;
+        width: 14px;
+    }
+    .each-product .product-content .star-area > img {
+      margin-left: 0px;
+    }
+    .star-area img {
+        margin-left: 0px;
+    }
+    .star-area {
+        margin: 20px 0px 20px 7px;
+    }
+        .rightarea-heading-offer {
+        font-size: 3vw;
+    }
+    .community-section h3 {
+        font-size: 18px;
+    }
+    .refer-friends p.text-copy {
+        font-size: 14px;
+        font-weight: 600;
+    }
+        .price-symbol {
+        width: 48px;
+        height: 48px;
+    }
+        .login-inner p.not_applyed_text {
+        font-size: 15px;
+    }
+    .cuppon-no > div:last-child a.not_applyed {
+    font-size: 8px;
+    }
+    .product-pagination .pagination {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+/*    border-left: 1px solid #dddddd;*/
+}
+    .product-pagination {
+    margin-top: 30px;
+}
+.item-pic img{
+    max-width:100%;
+}
+.p-icon-two img {
+    max-height: 110px !important;
+}
+.p-icon-two {
+    height: 100px !important;
+}
+.plus-1{
+    padding:20px 0px;
+    }
+    .plus-2{
+        padding:20px 0px;
+    }
+    .plus-3{
+        padding:20px 0px;
+    }
+    .plus-4{
+        padding:20px 0px;
+    }
+    .plus-5{
+        padding:20px 0px;
+    }
+    .plus-6{
+        padding:20px 0px;
+    }
+    .plus-7{
+        padding:20px 0px;
+    }
+    .plus-8{
+        padding:20px 0px;
+    }
+}

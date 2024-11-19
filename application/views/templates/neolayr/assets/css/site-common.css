@@ -1,0 +1,171 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+h1{
+	font-size: 50px;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin:0px;
+}
+h2 {
+  font-size: 50px;
+  line-height: inherit;
+  color: #505050;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+/*****************************/
+.know-more {
+  font-weight:500;
+  font-size: 24px;
+  line-height: inherit;
+  color: #61afb7;
+  text-decoration: none;
+  position: relative;
+  text-transform: uppercase;
+}
+.know-more::after {
+  content: "";
+  background: url(../images/arrow-down-sign-to-navigate.png) no-repeat center center;
+  height: 14px;
+  width: 14px;
+  position: relative;
+  display: inline-block;
+  top: -1px;
+  right: -8px;
+  transition: all 0.5s;
+}
+.know-more:hover::after {
+  right: -15px;
+}
+.know-more:hover {
+  color: #61afb7;
+  text-decoration: none;
+}
+
+/******************** FOR CHECkBOX *******************/
+.check-box-area {
+  padding: 15px 0px 50px;
+}
+.check-box-area ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: table;
+}
+.check-box-area ul li {
+  display: block;
+  position: relative;
+  float: left;
+  width: 100%;
+  font-family: "TTChocolates-Regular";
+  font-size: 18px;
+  line-height: inherit;
+  color: #151515;
+  text-decoration: none;
+}
+.check-box-area ul li input[type=radio] {
+  position: absolute;
+  visibility: hidden;
+}
+.check-box-area ul li label {
+  display: block;
+  position: relative;
+  font-weight: 300;
+  font-size: 1.35em;
+  padding: 5px 25px 5px 40px;
+  margin: 10px auto;
+  z-index: 9;
+  cursor: pointer;
+  transition: all 0.25s linear;
+}
+.check-box-area ul li:hover label {
+  color: #61afb7;
+}
+.check-box-area ul li .check {
+  display: block;
+  position: absolute;
+  border: 1px solid #505050;
+  border-radius: 100%;
+  height: 17px;
+  width: 17px;
+  top: 50%;
+  left: 0px;
+  z-index: 5;
+  transition: border 0.25s linear;
+  transition: border 0.25s linear;
+  transform: translateY(-50%);
+}
+.check-box-area ul li:hover .check {
+  border: 1px solid #61afb7;
+}
+.check-box-area ul li .check::before {
+  display: block;
+  position: absolute;
+  content: "";
+  border-radius: 100%;
+  height: 9px;
+  width: 9px;
+  top: 3px;
+  left: 3px;
+  margin: auto;
+}
+.check-box-area input[type=radio]:checked ~ .check {
+  border: 1px solid #61afb7;
+}
+.check-box-area input[type=radio]:checked ~ .check::before {
+  background: #61afb7;
+}
+.check-box-area input[type=radio]:checked ~ label {
+  color: #61afb7;
+}
+
+/****************** SITE COMMON PART ***************/
+.common-button {
+  display: inline-block;
+  font-family: "TTChocolates-Regular";
+  font-size: 24px;
+  line-height: inherit;
+  color: #ffffff;
+  text-decoration: none;
+  background: #61afb7;
+  text-transform: uppercase;
+  padding: 15px 50px;
+  transition: all 0.5s;
+}
+.common-button:hover {
+  text-decoration: none;
+  background: #505050;
+  color: #ffffff;
+}
+
+a.more-blog {
+  font-family: "TTChocolates-Regular";
+  font-size: 22px;
+  line-height: inherit;
+  color: #151515;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  transition: all 0.5s;
+}
+a.more-blog > img {
+  position: relative;
+  left: 10px;
+  transition: all 0.5s;
+}
+a.more-blog:hover {
+  color: #61afb7;
+}
+a.more-blog:hover > img {
+  left: 15px;
+}
+.common-background{
+	background-position:center center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}/*# sourceMappingURL=site-common.css.map */

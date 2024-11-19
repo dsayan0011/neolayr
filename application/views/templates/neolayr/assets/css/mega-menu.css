@@ -1,0 +1,45 @@
+.site-header .row > div > .dextop-menu > li > ul{
+	padding:30px 0px;
+	display: flex;
+    align-items: baseline;
+	left:-50px;
+	pointer-events:none;
+}
+.site-header .row > div > .dextop-menu > li > ul > li > ul{
+	position:static;
+	opacity:1;
+	margin:0px;
+	box-shadow:none;
+	left:0px;
+	background:transparent;
+}
+.site-header .row > div > .dextop-menu > li > ul > li{
+	padding:0px 50px;
+}
+.site-header .row > div > .dextop-menu > li > ul > li > ul > li{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.site-header .row > div > .dextop-menu > li > ul > li > ul > li > a {
+    font-size: 20px;
+    line-height: 18px;
+}
+.site-header .row > div > .dextop-menu > li > ul > li > a{
+	font-weight:700;
+	display: block;
+    margin-bottom: 10px;
+}
+.site-header .row > div > .dextop-menu > li > ul > li > ul > li:last-child {
+    margin-bottom: 0px;
+}
+.site-header .row > div > .dextop-menu > li > ul > li > ul > li:first-child {
+    margin-top: 0px;
+}
+.site-header .row > div > .dextop-menu > li > ul > li:first-child {
+    margin-top: 0px;
+}
+.site-header .row > div > .dextop-menu > li > ul > li:first-child > ul {
+    margin-top: 0px;
+}
+
